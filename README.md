@@ -23,9 +23,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Samridhi-98/Samridhi-98/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/priyaRisbud/priyaRisbud/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaRisbude&show_icons=true&locale=en&layout=compact" alt="priyaRisbud" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaRisbud&show_icons=true&locale=en&layout=compact" alt="priyaRisbud" /></p>
